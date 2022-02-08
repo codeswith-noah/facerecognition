@@ -1,0 +1,13 @@
+body{
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#camera{
+    width:360px;
+    height:300px;
+    border-style:dashed;
+    border-radius:20px;
+    margin-left:765px;
+    margin-right:765px;
+}
